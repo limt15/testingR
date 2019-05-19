@@ -1,0 +1,2 @@
+Namespace(batch_size=16, dump_dir='dump', gpu=0, model='pointnet2_cls_ssg_spec_cp', model_path='log/spec_cp/model.ckpt', normal=False, num_point=1024, num_votes=1)
+Model restored.

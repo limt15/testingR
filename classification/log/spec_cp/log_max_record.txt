@@ -1,0 +1,72 @@
+**** EPOCH 000 ****
+eval accuracy: 0.584279
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 001 ****
+eval accuracy: 0.676661
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 002 ****
+eval accuracy: 0.748379
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 003 ****
+eval accuracy: 0.763371
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 004 ****
+eval accuracy: 0.777147
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 005 ****
+eval accuracy: 0.787682
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 006 ****
+eval accuracy: 0.794976
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 007 ****
+eval accuracy: 0.835089
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 008 ****
+eval accuracy: 0.843193
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 011 ****
+eval accuracy: 0.850486
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 014 ****
+eval accuracy: 0.858995
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 016 ****
+eval accuracy: 0.863857
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 019 ****
+eval accuracy: 0.872366
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 020 ****
+eval accuracy: 0.874797
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 021 ****
+eval accuracy: 0.876823
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 022 ****
+eval accuracy: 0.888979
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 039 ****
+eval accuracy: 0.895057
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 044 ****
+eval accuracy: 0.895462
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 048 ****
+eval accuracy: 0.897893
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 050 ****
+eval accuracy: 0.900324
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 064 ****
+eval accuracy: 0.900729
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 071 ****
+eval accuracy: 0.904376
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 096 ****
+eval accuracy: 0.906402
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
+**** EPOCH 107 ****
+eval accuracy: 0.907212
+Model saved in file: /home/mengtianli/PycharmProjects/combine/classification/log/spec_cp/model_max_record.ckpt
